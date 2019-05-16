@@ -7,7 +7,7 @@ An extremely simple ecommerce application written in Django.
 
 To install the project follow these steps:
 
-1. `git clone https://github.com/overiq/pay-gate.git`.
+1. `git clone https://github.com/amberbhanarkar/pay-gate.git`.
 1. `cd simple_ecommerce`
 1. `virtualenv env`
 1. `source env/bin/activate` (for Linux/Mac OS ) or `env\Scripts\activate.bat` (for Windows)
